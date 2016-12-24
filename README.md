@@ -11,3 +11,5 @@ The tech-stack that I've decided to build the project with is
 - Ruby on Rails
 - ClojureScript
 - MySQL
+
+Eventually the development environment would be moved to **Ubuntu-16.06 Docker image**
