@@ -16,8 +16,10 @@ With a certain dosage of TypeScript to tackle parts where I get stuck.
 
 ## The project roadmap
 
-1.0.0 => PHP to RUBY
-2.0.0 => JQuery to TypeScript
-3.0.0 => Introduce ReactJS via ClojureScript
+- 1.0.0 => PHP to RUBY
+- 2.0.0 => JQuery to TypeScript
+- 3.0.0 => Introduce ReactJS via ClojureScript
 
 Eventually the development environment would be moved to **Ubuntu-16.06 Docker image**
+
+For using and contributing the code, check [License.md](https://github.com/TheTalkingApes/lwt-ruby/blob/master/License.md)
